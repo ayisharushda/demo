@@ -21,7 +21,7 @@ class Student extends CI_Controller {
         $this->load->view('Student_view',array('data'=>$result));  
        // $this->load->view('Student_view', $data);
         //rteyr
-	    
+	    //hjhgyg
             
 	}
 	public function create(){
